@@ -1,0 +1,6 @@
+black
+pip-tools
+numpy
+matplotlib
+jupyter
+nbconvert
